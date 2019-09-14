@@ -1,0 +1,3590 @@
+[
+  {
+    "id": "bx_1076857107_1698",
+    "title": "Строительство завода по производству высококачественного гранулированного чугуна",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "26,1",
+    "geogwidth": "52.759220606458",
+    "geoglength": "103.61471817308",
+    "categoryId": "60",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО «УМК»"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2019"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2023"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "26,1"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "24"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство завода по производству высококачественного гранулированного чугуна"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_1697",
+    "title": "Строительство мини завода по производству стальной арматуры",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "123,8",
+    "geogwidth": "52.760053718541",
+    "geoglength": "103.62089798265",
+    "categoryId": "60",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО «Усольский металлургический завод»"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2019"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2021"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "123,8"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "100"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство мини завода по производству стальной арматуры"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_1689",
+    "title": "Создание производства кабельно-проводниковой продукции и изделий из ПВХ",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "53,5",
+    "geogwidth": "52.757970908305",
+    "geoglength": "103.62227127367",
+    "categoryId": "60",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО «УСЭЗ»"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2018"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2026"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "53,5"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "39"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Создание производства кабельно-проводниковой продукции и изделий из ПВХ"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_331",
+    "title": "Модернизация газоочистной установки РТП-1,2",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "127,9",
+    "geogwidth": "52.19677630952",
+    "geoglength": "104.07674629395",
+    "categoryId": "49",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ЗАО &quot;Кремний&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2013"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2018"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "&quot;Объём очищаемых газов от печей -  1 080 000 м3/час&quot;"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "127,9"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "26,3"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "9"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Модернизация газоочистной установки РТП-1,2"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_317",
+    "title": "Увеличение объемов и повышение качества производства литейных сплавов в ЛО3",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "513,5",
+    "geogwidth": "52.207365889739",
+    "geoglength": "104.07949287598",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "Филиал АО &quot;РУСАЛ Братск&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2016"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2017"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "55000 тонн в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "513,5"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Увеличение объемов и повышение качества производства литейных сплавов в ЛО3"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_308",
+    "title": "Строительство  логистического центра",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "1970,0",
+    "geogwidth": "52.217868581521",
+    "geoglength": "104.07811958496",
+    "categoryId": "52",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Никоград&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "1970,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "40,0"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "200"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство  логистического центра"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_307",
+    "title": "Строительство логистического центра",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "1509,3",
+    "geogwidth": "52.206901856462",
+    "geoglength": "104.0465338916",
+    "categoryId": "52",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Группа компаний &quot;КОТ&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2012"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "1509,3"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "1,5"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "350"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство логистического центра"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_302",
+    "title": "Разработка участка по добыче золота на участке &quot;Зэгэн-Гольское рудное поле&quot;",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "175,9",
+    "geogwidth": "53.152171716641",
+    "geoglength": "103.09542429346",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Забайкал Ойл&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2015"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2018"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "50 тыс. тонн (за весь период реализации проекта)"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "175,9"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "8,9"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "25"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Разработка участка по добыче золота на участке &quot;Зэгэн-Гольское рудное поле&quot;"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_301",
+    "title": "Разработка участка по добыче каменного угля  &quot;Герасимовская площадь&quot;",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "141,4",
+    "geogwidth": "53.114592796444",
+    "geoglength": "103.08134806055",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;СибНедра&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2015"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2018"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "40 тыс. тонн в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "141,4"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "141,4"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "20"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Разработка участка по добыче каменного угля  &quot;Герасимовская площадь&quot;"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_300",
+    "title": "Строительство завода по утилизации техногенных отходов угольной промышленности",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "170,3",
+    "geogwidth": "53.157537460101",
+    "geoglength": "103.18022501367",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;УК Ойкос&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2016"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "170,3"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "2,1"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "68"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство завода по утилизации техногенных отходов угольной промышленности"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_296",
+    "title": "Разработка участка по добыче каменного угля «Ныгдинская площадь&quot;",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "21,5",
+    "geogwidth": "53.122028609765",
+    "geoglength": "103.06486856836",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО «Компания «ВостСибУголь» "
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2016"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "11 тыс. тонн в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "21,5"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "13,2"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "30"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Разработка участка по добыче каменного угля «Ныгдинская площадь&quot;"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_289",
+    "title": "Строительство Тайшетского алюминевого завода",
+    "longtext": "",
+    "cardText": "В состав завода войдут 4 корпуса электролиза, оснащенных современными электролизерами РА-400, литейный, анодный, энергетичесике цеха, газоочистные сооружения и полный комплекс объектов инфраструктуры.<br />\n",
+    "investAmount": "81870,6",
+    "geogwidth": "55.112924854546",
+    "geoglength": "97.830743182617",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ОК РУСАЛ"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2007"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "750 тыс. тонн алюминия/год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "81870,6"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "24273,0"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "3000"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство Тайшетского алюминевого завода"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_288",
+    "title": "Строительство магистрального нефтепровода &quot;Куюмба-Тайшет&quot;",
+    "longtext": "",
+    "cardText": "Проект реализуется в рамках Генеральной программы развития нефтяной отрасли до 2020 года, утвержденной приказом Минэнерго России от 6.07.2011 №212. Выполнение строительно - монтажных работ &#40;сварка трубопровода, разработка траншеи&#41;.<br />\n",
+    "investAmount": "4766,3",
+    "geogwidth": "55.130160808184",
+    "geoglength": "97.814950335938",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Транснефть-Восток&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2013"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2023"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "15,00"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "4766,3"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "4354,0"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство магистрального нефтепровода &quot;Куюмба-Тайшет&quot;"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_287",
+    "title": "Строительство Тайшетской Анодной фабрики",
+    "longtext": "",
+    "cardText": "Реализация 1-го этапа проекта строительства анодной фабрики позволит обеспечить потребность российских алюминиевых заводов РУСАЛа в обожжённых анодах &#40;производство до 217,5 тыс. тонн обожженных анодов в год, до 210 тыс. тонн прокаленного кокса в год&#41;, а также сырьевую безопасность компании за счет строительства собственного прокалочного комплекса. Создание масштабного анодного производства в Иркутской области способствует решению задач по импортозамещению приобретаемых на внешнем рынке обожженных анодов, что обеспечит повышение сырьевой безопасности алюминиевой отрасли России. Строительство Тайшетской Анодной фабрики позволит обеспечить обожженными анодами алюминиевые заводы ОК РУСАЛ &#40;ТаАЗ, ИркАЗ, БоАЗ&#41;.<br />\n",
+    "investAmount": "43358,0",
+    "geogwidth": "55.1097759292",
+    "geoglength": "97.838982928711",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ОК РУСАЛ"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2011"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2022"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "1 очередь: производство 225 тыс. тонн обожженных анодов в год; полная мощность: 870 тыс.т обожженных анодных блоков  в год с выпуском 630 тыс.т прокаленного кокса"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "43358,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "865,0"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "621"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство Тайшетской Анодной фабрики"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_274",
+    "title": "Строительство полигона ТБО на территории Быстринского сельского поселения ",
+    "longtext": "",
+    "cardText": " Проектно-сметная документация на полигон ТБО проектировщиком - ООО «БранДмауэр» выполнена в полном объеме.<br />\n",
+    "investAmount": "80,8",
+    "geogwidth": "51.638597326818",
+    "geoglength": "103.69609914551",
+    "categoryId": "49",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "Администрация Слюдянского района"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2013"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2015"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "80,8"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство полигона ТБО на территории Быстринского сельского поселения "
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_263",
+    "title": "Промышленная разработка Зашихинского редкометального месторождения",
+    "longtext": "",
+    "cardText": "&quot;Предполагает строительство и ввод в эксплуатацию предприятия по добыче и обогащению тантал-ниобиевых руд на базе редкометалльного месторождения «Зашихинское», способного осуществлять переработку 1 млн. тонн руды в год с законченным циклом производства. <br />\nПроектом предусмотрено, что примерно 80 &#37; производимой продукции будет реализовываться потребителям тантал-ниобиевой продукции в РФ.<br />\n Суммарный объем производства продукта с 2018 по 2044 гг.&nbsp;&nbsp;составит: <br />\n• оксид ниобия&nbsp;&nbsp;-&nbsp;&nbsp;50 510 тонн; <br />\n• оксид тантала -&nbsp;&nbsp;4 169 тонн.<br />\nПроект строительства горно-металлургического комбината включает:<br />\n- горно-обогатительный комбинат на базе Зашихинского месторождения&nbsp;&nbsp;по добыче редкометалльной руды и её первичной переработке с выпуском колумбитового концентрата &#40;40&#37; Nb2O5, 4&#37; Ta2O5&#41; и цирконового концентрата &#40;при наличии экономической целесообразности&#41;;<br />\n- гидрометаллургический цех на базе ОАО «АЭХК»,&nbsp;&nbsp;по выпуску&nbsp;&nbsp;чистых и высокочистых пентоксидов ниобия и тантала, а также сопутствующих&nbsp;&nbsp;РЗМ из колумбитового и цирконового концентратов &#40;при наличии экономической целесообразности&#41;. &quot;<br />\n",
+    "investAmount": "13600,0",
+    "geogwidth": "54.915172914331",
+    "geoglength": "99.015933444336",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ЗАО &quot;Техноинвест альянс&quot; "
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2012"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2021"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "Первичная переработка 1000 тыс.т руды в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "13600,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "647,8"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "661"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Промышленная разработка Зашихинского редкометального месторождения"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_255",
+    "title": "Разработка Западно-Аянского нефтегазоконденсатного месторождения",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "36509,0",
+    "geogwidth": "57.767635685418",
+    "geoglength": "108.05802957935",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;ИНК-НефтеГазГеология&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2006"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2033"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "&quot;Нефть - 7 863 тыс. тонн Газ - 219,5 млн.м3&quot;"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "36509,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "2159,0"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Разработка Западно-Аянского нефтегазоконденсатного месторождения"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_254",
+    "title": "Разработка Дулисьминского нефтегазоконденсатного месторождения",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "138482,0",
+    "geogwidth": "57.752515103842",
+    "geoglength": "108.07588236255",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ЗАО &quot;НК&quot;Дулисьма&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2012"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "Прогнозируемая проектная мощность 11175,5 тыс. тонн углеводородного сырья"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "138482,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "21255,0"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "450"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Разработка Дулисьминского нефтегазоконденсатного месторождения"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_253",
+    "title": "Полномасштабная разработка Верхнечонского месторождения",
+    "longtext": "",
+    "cardText": "&quot;Проект делится на три этапа:<br />\n1. «Минимальный пилот» - реализация сокращенного объема работ для выполнения лицензионных обязательств, получение высококачественных данных о свойствах пласта с целью снижения неопределенности и обеспечения уверенности в принятии решения об инвестициях в проект полномасштабной разработки месторождения &#40;реализован в конце 2007 года&#41;;<br />\n2. «Ранняя нефть» - ускорение выполнения части объема работ из объема проекта ПРМ с целью поставки нефти с месторождения в ВСТО к концу 2008 года и выполнения лицензионных обязательств &#40;реализован в конце 2008 года&#41;;<br />\n3. «Полномасштабная разработка» - переход к этапу «Эксплуатация» с формированием полки добычи в пределах 7,8 млн. тонн в год. &quot;<br />\n",
+    "investAmount": "152000,0",
+    "geogwidth": "60.400985621857",
+    "geoglength": "105.394243",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ПАО &quot;Верхнечонскнефтегаз&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2005"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2050"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "7,8 млн. тонн нефти/год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "152000,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "167313,7"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "1150"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Полномасштабная разработка Верхнечонского месторождения"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_252",
+    "title": "Строительство деревообрабатывающего комплекса, пос.Магистральный",
+    "longtext": "",
+    "cardText": "&quot;Проект предполагает организацию сквозной технологической цепочки заготовительного и перерабатывающего производств, которые позволят из лесного сырья при минимальных потерях древесины получать конкурентоспособную товарную продукцию – широкую номенклатуру сухих пиломатериалов, востребованную на внутреннем и внешних рынках.<br />\nПроект включен в перечень приоритетных в области освоения лесов на основании приказа Минпромторга России от 14 февраля 2013 года № 181. <br />\nУстановленный ежегодный отпуск древесины, переданый для реализации проекта, составил 609,5 тыс. м3. <br />\nВ рамках проекта введена в эксплуатацию линия лесопиления, завод по производству топливных гранул. Осуществляется строительство восьми новых сушильных камер с возможностью загрузки 150 м3 пиломатериалов в каждую. Разработан проект, выполнены работы по бетонированию площадки, приобретены материалы для строительства сушильных камер.&quot;",
+    "investAmount": "2050,0",
+    "geogwidth": "55.634768188149",
+    "geoglength": "107.6048618125",
+    "categoryId": "55",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Евразия-леспром групп&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2011"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2017"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "Сухие пиломатериалы - 400 тыс.м3."
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "2050,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "2297,3"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "840"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство деревообрабатывающего комплекса, пос.Магистральный"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_249",
+    "title": "Создание производства по глубокой переработке древесины",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "328,1",
+    "geogwidth": "56.234972013229",
+    "geoglength": "108.7985305",
+    "categoryId": "55",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Компания&quot;Госстрой&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2019"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "Клееный брус - 40 тыс. м3, погонажные изделия 10 тыс.м3,балансы 21 тыс. м3, профилированные изделия из осины - 20 тыс.м3, европоддоны 680 тыс.шт."
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "328,1"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "140,5"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "202"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Создание производства по глубокой переработке древесины"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_241",
+    "title": "Производство гипохлорита кальция",
+    "longtext": "",
+    "cardText": "Добыча природного рассола с глубины 1800 метров самоизливом, переработка с получением товарной продукции в виде гипохлорита кальция с содержанием активного хлора не менее 60&#37; и удалении технологических остатков в специальные скважины.<br />\n",
+    "investAmount": "960,3",
+    "geogwidth": "54.74274911621",
+    "geoglength": "105.313853375",
+    "categoryId": "62",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО НПВФ «Брайнсиб»"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2016"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2019"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "3850 тонн/год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "960,3"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "10"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Производство гипохлорита кальция"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_239",
+    "title": "Реконструкция аэропорта г. Усть-Илимска",
+    "longtext": "",
+    "cardText": "&quot;1 вариант: L=1100 м, 784,80 <br />\n2 вариант: L=3000 м, 1716,80&quot;",
+    "investAmount": "1110,0",
+    "geogwidth": "57.94921850113",
+    "geoglength": "102.75522389453",
+    "categoryId": "52",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "Администрация г. Усть-Илимска"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2013"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "1110,0"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Реконструкция аэропорта г. Усть-Илимска"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_237",
+    "title": "Производство дезинфицирующих и антисептических препаратов, г. Усолье-Сибирское",
+    "longtext": "",
+    "cardText": "Созднаие произодства 7 различных наименованй профессиональных дезинфицирующих и анисептических препаратов. <br />\n",
+    "investAmount": "7,2",
+    "geogwidth": "52.76098346637",
+    "geoglength": "103.63442704492",
+    "categoryId": "62",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;СмартСинтез&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2016"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2019"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "80,6 тысяч литров в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "7,2"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Производство дезинфицирующих и антисептических препаратов, г. Усолье-Сибирское"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_236",
+    "title": "Строительство в г. Усолье-Сибирское опытно-промышленной установки по производству 15 тысяч тонн в год гранулированного чугуна RCI по технологии прямого восстановления железа",
+    "longtext": "",
+    "cardText": "Создание высокорентабельного производства высококачественного гранулированного чугуна RCI &#40;с попутным получением металлургического шлака, пригодного для дорожного строительства и для производства строительных материалов&#41; из минерального сырья, добываемого в Иркутской области &#40;железорудного концентрата Коршуновского ГОКа и углей Черемховского района&#41;. <br />\n",
+    "investAmount": "355,7",
+    "geogwidth": "52.764482286624",
+    "geoglength": "103.65639970117",
+    "categoryId": "60",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;СБТ-Иркутск&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "15 тыс. тонн гранулированного чугуна в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "355,7"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "20"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство в г. Усолье-Сибирское опытно-промышленной установки по производству 15 тысяч тонн в год гранулированного чугуна RCI по технологии прямого восстановления железа"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_233",
+    "title": "Создание производства ферросплавов",
+    "longtext": "",
+    "cardText": "Разработан технологический регламент производства марганцевых ферросплавов в рудотермических печах. Получено предварительное согласие на поставки ферромарганца ФМн78 от будущего генерального российского покупателя ферросплавной продукции. Проведены предварительные переговоры по вопросам поставки марганцевой руды для создаваемого ферросплавного завода с предприятиями-недропользователями, ведущими разработку марганцевых месторождений Иркутской области. Приобретено оборудование. В настоящее время не решен вопрос аренды земельного участка, находящегося на территории производственной площадки ООО &quot;Усольехимпром&quot;.<br />\n",
+    "investAmount": "505,0",
+    "geogwidth": "52.756317930613",
+    "geoglength": "103.64060685449",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;ИТЭМ-инжиниринг&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2015"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2017"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "32,4 тыс. тонн год ферросплавов"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "505,0"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "120"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Создание производства ферросплавов"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_231",
+    "title": "Модернизация производства (обновление основных средств)",
+    "longtext": "",
+    "cardText": "Предприятие имеется все необходимое для производственной деятельности в сфере машиностроения.<br />\n",
+    "investAmount": "50,0",
+    "geogwidth": "53.079993209647",
+    "geoglength": "103.33829825391",
+    "categoryId": "60",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Автоспецдеталь&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2013"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2017"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "50,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "13,0"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "100"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Модернизация производства (обновление основных средств)"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_229",
+    "title": "Реконструкция системы теплоснабжения МО &quot;Свирск&quot;",
+    "longtext": "",
+    "cardText": "Ликвидация убыточной, использующей ручной труд котельной Микрорайон. Подключение потребителей к Центральной котельной МО &quot;г. Свирск&quot;. Обеспечение потребителей микрорайона г. Свирска в летний период горячим водоснабжением. Надежное и качественное теплоснабжение потребителей микрарайона в отопительный период.<br />\n",
+    "investAmount": "15,0",
+    "geogwidth": "53.085781407465",
+    "geoglength": "103.34241812695",
+    "categoryId": "49",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Теплоэнергосервис&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2016"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2021"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "15,0"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Реконструкция системы теплоснабжения МО &quot;Свирск&quot;"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_228",
+    "title": "Создание комплекса производств глубокой переработки древесины в г. Саянске Иркутской области",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "1060,0",
+    "geogwidth": "54.10639686729",
+    "geoglength": "102.17445387891",
+    "categoryId": "55",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО ПК &quot;МДФ&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2017"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2019"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "плиты ДСТП 100 тыс м3 в год, домокомплекты 70 штук"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "1060,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "5,4"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "197"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Создание комплекса производств глубокой переработки древесины в г. Саянске Иркутской области"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_227",
+    "title": "Проектирование и строительство первой очереди полигона твердых бытовых  отходов в городе Саянске",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "19,4",
+    "geogwidth": "54.104782831018",
+    "geoglength": "102.17445387891",
+    "categoryId": "49",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "Администрация г. Саянска"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2015"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2016"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "51, 2 тыс. м3 принимаемых бытовых отходов в неуплотненном состоянии"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "19,4"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Проектирование и строительство первой очереди полигона твердых бытовых  отходов в городе Саянске"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_226",
+    "title": "Строительство газоперерабатывающего и газохимического (ГПК/ГХК) комплекса",
+    "longtext": "",
+    "cardText": "&quot;Проведена сейсморазведка в объеме более 800 км.<br />\nПробурено 3 геологоразведочные скважины<br />\nОткрыто 2 газоконденсатных месторождения:<br />\nЗаславское месторождение с зарегистрированными запасами в 24 млрд. м3 природного газа и 1,2 млн. тонн газового конденсата &#40;категория C1&#43;C2&#41;<br />\nСаянское месторождение - 14,7 млрд. м³ газа и 0,85 млн. тонн газового конденсата.&quot;<br />\n",
+    "investAmount": "55000,0",
+    "geogwidth": "54.105428452793",
+    "geoglength": "102.17994704297",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Када-Нефтегаз&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2016"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "&quot;запасы природного газа равны 39 млрд. м3 (1367,6 млрд. куб. фут), извлекаемого конденсата – 2 050 тыс. тонн (17 835 тыс. баррелей) &quot;"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "55000,0"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "1000"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство газоперерабатывающего и газохимического (ГПК/ГХК) комплекса"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_224",
+    "title": "Строительство Ангаро-Ленского ГПК (Газоперерабатывающего комплекса) ",
+    "longtext": "",
+    "cardText": "В рамках проекта предполагается создание газоперерабатывающего комплекса &#40;ГПК&#41;: бурение добывающих скважин, подготовка месторождения к осуществлению опытно-промышленной эксплуатации, разработка месторождения, строительство транспортной инфраструктуры &#40;газопровода, ЛЭП, автомобильной дороги, железнодорожных тупиков, терминала по отгрузке газового конденсата&#41;, а также строительство газоперерабатывающего завода с технологическими процессами для выпуска сжиженного газа. Мощность завода предполагается на уровне 1 млрд. м3 природного газа в год. В дальнейшем планируется довести объем добычи газа до 5 млрд. м3 в год. <br />\n",
+    "investAmount": "31700,0",
+    "geogwidth": "54.100424624901",
+    "geoglength": "102.16621413281",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Петромир&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2032"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "&quot;1 млрд. м3 природного газа в год; сжиженный природный газ 700 тыс. тонн в год&quot;"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "31700,0"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "500"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство Ангаро-Ленского ГПК (Газоперерабатывающего комплекса) "
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_219",
+    "title": "Инвестиционная программа развития производственно-технической базы",
+    "longtext": "",
+    "cardText": "&quot;Реализация программы по развитию производственно-технической базы осуществляется с&nbsp;&nbsp;целью:<br />\n-выполнения товарной программы на период 2011-2015 гг. по заключенным контрактам &#40;в том числе по проектам &quot;&quot;МС-21&quot;&quot;, &quot;&quot;СУ-30МК&quot;&quot;, &quot;&quot;Як-130&quot;&quot;, международной кооперации&#41;;<br />\n-развития производственного потенциала предприятия, процессов производства и послепродажного обслуживания авиационной техники, обеспечивающих удовлетвореие потребностей заказчика и соответствующих требованиям российским и международным стандартов, в том числе в рамках реализации перспективных проектов &#40;МС-21, конвертация А320/321&#41;;<br />\n-повышение технологического уровня и конкурентоспособности производственных процессов по основным технологичесикм переделам, создания специализированных центров обработки для реализации перспективных проектов.&quot;<br />\n",
+    "investAmount": "8456,0",
+    "geogwidth": "52.275685844269",
+    "geoglength": "104.28880991016",
+    "categoryId": "57",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "Иркутский авиационный завод - филиал ПАО «Корпорация «Иркут»"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2011"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2017"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "МС-21, Су-30, Як-130, компоненты для пассажирских самолетов  Airbus A320"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "8456,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "6378,2"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "237"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Инвестиционная программа развития производственно-технической базы"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_175",
+    "title": "Совершенстование и увеличение мощностей действующего деревообрабатывающего производства по выпуску готовой продукции с запуском новых цехов для рационального и полного использования отходов лесопиления и деревообработки в кач-ве втор. тех. сырья",
+    "longtext": "",
+    "cardText": "&quot;Инвестиционный проект включает в себя:<br />\nСтроительство дополнительного второго цеха по выпуску готовой продукции &#40;строительные материалы, погонажные изделия, мебельный щит, сращенная и клееная продукция, применяемая в домостроении&#41; с применением новейших технологий в сфере деревообработки от ведущих мировых производителей оборудования &#40;Германия, Швеция, Италия&#41;.<br />\nСтроительство автоматизированной линии сортировки сырья, которая сократит сроки на цикл сортировки, облегчит труд работников, увеличит эффективность распределенной подачи сырья в производство. <br />\nСтроительство автоматической сортировки пиломатериала, на этапе передачи сырья из цеха лесопиления в цех производства готовой продукции сократит сроки на цикл сортировки, облегчит труд работников, увеличит эффективность распределенной подачи сырья в производство, на сушку и хранение.<br />\nСтроительство дополнительного сушильного комплекса, который позволит увеличить производительную мощность и повысит рентабельность действующего производства.<br />\nСтроительство котельного комплекса для энергообеспечения предприятия, работающего на отходах собственного производства. При использовании энерго- и ресурсосберегающих процессов, производство увеличивает свою эффективность, полностью исключает воздействие вредных веществ, как на самих работников, так и на окружающую среду города. Помимо этого соответствие российским и европейским экологическим нормам делает производство более конкурентоспособным, и даст возможность участвовать в большем количестве различных проектов, т.к. для зарубежных заказчиков экология производства очень важна, и при выборе исполнителя она является решающим фактором.<br />\nСтроительство двух новых производственных цехов по переработке отходов и выпуску топливных гранул. Топливные гранулы, как производные от древесины, являются вторичным безопасным возобновляемым сырьем в отличие от нефти и газа; имеют высокую энергоконцентрацию при незначительном объеме, который они занимают; удобны в использовании, поскольку могут перемещаться в автоматических печах и «вдуваться» на склад и транспорт, а пепел может использоваться как удобрение, поскольку зола составляет до 1&#37; от веса топлива; гранулы имеют высокую насыпную массу, не требует много места для складирования. Благодаря этим свойствам, гранулы из древесины имеют большую конкурентоспособность по сравнению с другими видами топлива. Их стоимость не зависит от скачков цен на ископаемые виды топлива и экологические налоги, которые неуклонно увеличиваются.&quot;<br />\n",
+    "investAmount": "1000,0",
+    "geogwidth": "56.14443076823",
+    "geoglength": "101.62670502344",
+    "categoryId": "55",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Ангара плюс&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2015"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2018"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "1000,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "108,3"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "158"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Совершенстование и увеличение мощностей действующего деревообрабатывающего производства по выпуску готовой продукции с запуском новых цехов для рационального и полного использования отходов лесопиления и деревообработки в кач-ве втор. тех. сырья"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_174",
+    "title": "Модернизация и техническое перевооружение производства ",
+    "longtext": "",
+    "cardText": "Проект реализуется в рамках проекта Большой Братск.<br />\n",
+    "investAmount": "1760,9",
+    "geogwidth": "56.146884007187",
+    "geoglength": "101.62121185937",
+    "categoryId": "55",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "Филиала ОАО «Группа ИЛИМ» в г. Братске"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2016"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "&quot;52 тыс. тонн сырого талого масла в год 75 тонн в час паропроизводительность&quot;"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "1760,9"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "1729,2"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Модернизация и техническое перевооружение производства "
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_173",
+    "title": "Реконструкция и модернизация лесопиления на базе передовых технологий и современного оборудования",
+    "longtext": "",
+    "cardText": "Инвестиционный проект включен в перечень комплексных инвестиционных проектов по приоритетным направлениям гражданской промышленности, приказ Минпромторга РФ от 09.12.2015 №3986. Инвестиционный проект предполагает модернизацию производства переработки пиловочного сырья и переработки отходов лесозаготовки с выпуском пеллет в качестве безотходного производства. <br />\n",
+    "investAmount": "696,8",
+    "geogwidth": "56.142590732898",
+    "geoglength": "101.60885224023",
+    "categoryId": "55",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;ДеКом&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2019"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "более 40 тыс. куб. м, погонажных изделий более 10 тыс куб м, более 15 тыс тонн пеллет год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "696,8"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "696,8"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "41"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Реконструкция и модернизация лесопиления на базе передовых технологий и современного оборудования"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_172",
+    "title": "Модернизация производства по глубокой переработке древесины с выпуском сушеных пиломатериалов, мебельного щита и погонажных изделий ",
+    "longtext": "",
+    "cardText": "Проект включен в перечень приоритетных инвестиционных проектов в области освоения лесов &#40;Приказ Министерства промышленности и торговли Российской Федерации от 6 июня 2014 года № 1088&#41;. <br />\n",
+    "investAmount": "402,2",
+    "geogwidth": "56.147190652462",
+    "geoglength": "101.62121185937",
+    "categoryId": "55",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО «Лесопромышленное предприятие «АНГАРА»"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2010"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2017"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "Сухие пиломатериалы - 43,75 тыс. м3, пиломатериалы естественной влажности - 43,75 тыс. м3, низкосортные пиломатериалы - 15,0 тыс. м3, погонажные изделия - 14,0 тыс. м3, мебельный щит - 3,6 тыс. м3"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "402,2"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "461,4"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "300"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Модернизация производства по глубокой переработке древесины с выпуском сушеных пиломатериалов, мебельного щита и погонажных изделий "
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_171",
+    "title": " Модернизация производства БрАЗ",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "2300,0",
+    "geogwidth": "56.148417203149",
+    "geoglength": "101.61846527734",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ПАО «РУСАЛ Братск»"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2010"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "2300,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "2228,2"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": " Модернизация производства БрАЗ"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_170",
+    "title": "Техническое перевооружение производства ферросилиция",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "3817,0",
+    "geogwidth": "56.145350743954",
+    "geoglength": "101.62395844141",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;БЗФ&quot; (ПАО &quot;Мечел&quot;)"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2011"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2018"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "34 840 тонн ферросилиция в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "3817,0"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "1402,9"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "60"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Техническое перевооружение производства ферросилиция"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_167",
+    "title": "Создание мультимодального транспортно-логистического центра",
+    "longtext": "",
+    "cardText": "Общая площадь территории, занимаемой МТЛЦ - 20-30 га<br />\nПлощадь складских помещений - 100 тыс. кв. м<br />\nПлощадь мультимодального контейнерного терминала - 3,5 га.",
+    "investAmount": "2299,0",
+    "geogwidth": "56.149643714527",
+    "geoglength": "101.62533173242",
+    "categoryId": "52",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "Администрация г. Братска"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2007"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2028"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "Объем грузопереработки - 1,5-2 млн. т в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "2299,0"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Создание мультимодального транспортно-логистического центра"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_159",
+    "title": "Реконструкция производства аммиачной селитры ",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "1210,26",
+    "geogwidth": "52.349007",
+    "geoglength": "104.31837217321",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;Ангарский Азотно-туковый завод&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2013"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2016"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "270 тыс. тонн"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "1210,26"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "972,5"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Реконструкция производства аммиачной селитры "
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_158",
+    "title": "Модернизация нефтехимического производства",
+    "longtext": "",
+    "cardText": "На предприятии проводится реконструкция производства с целью повышения доли выпуска продукции, удовлетворяющей условиям технического регламента &#40;стандарт ЕВРО 4, ЕВРО 5&#41;. ",
+    "investAmount": "91150",
+    "geogwidth": "52.349007",
+    "geoglength": "104.31837217321",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "АО &quot;АЭХК&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2008"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2018"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "91150"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "30700"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "754"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Модернизация нефтехимического производства"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_157",
+    "title": "Выполнение мероприятий по ФЦП и обременениям",
+    "longtext": "",
+    "cardText": "Экологическая отчистка, утилизация отходов.",
+    "investAmount": "1448",
+    "geogwidth": "52.349007",
+    "geoglength": "104.31837217321",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "АО &quot;АЭХК&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2007"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "1448"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "430"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Выполнение мероприятий по ФЦП и обременениям"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_156",
+    "title": "Развитие ядерного производства (гексафторид урана)",
+    "longtext": "",
+    "cardText": "Модернизация основного производства",
+    "investAmount": "8062",
+    "geogwidth": "52.349007",
+    "geoglength": "104.31837217321",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "АО &quot;АЭХК&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2018"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "гексафторид урана"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "8062"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "891"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Развитие ядерного производства (гексафторид урана)"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_155",
+    "title": "Развитие инфраструктуры, инженерных коммуникаций",
+    "longtext": "",
+    "cardText": "Замена коммуникаций.",
+    "investAmount": "1038",
+    "geogwidth": "52.266479728776",
+    "geoglength": "104.31837217321",
+    "categoryId": "49",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "АО &quot;АЭХК&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2007"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "Отсутствует"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "1038"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "265"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Развитие инфраструктуры, инженерных коммуникаций"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_116",
+    "title": "Возобновление производства ангидрида трифторметансульфокислоты",
+    "longtext": "",
+    "cardText": "Проект предполагает возобновление производства ангидрида трифторметансульфокислоты с проведением его технического перевооружения и увеличением мощности, увеличение выручки от реализации новой продукции &#40;общепромышленного назначения&#41;. Производство ангидрида трифторметансульфокислоты для производства фармацевтических препаратов, тонкого органического синтеза, электроники и ЖК-дисплеев.",
+    "investAmount": "2",
+    "geogwidth": "52.266479728776",
+    "geoglength": "104.31837217321",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "АО &quot;АЭХК&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2015"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2017"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "25"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "2"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Возобновление производства ангидрида трифторметансульфокислоты"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_114",
+    "title": "Создание совместного предприятия для производства особо чистого кварцевого концентрата",
+    "longtext": "",
+    "cardText": "Продукция будет поставляться на экспорт для производства изделий из кварцевого стекла для микроэлектронной промышленности. Партнер и со-инвестор QSIL GmbH &#40;Германия&#41;, он же эксклюзивный потребитель 100&#37; объёма продукции. Доля совместного предприятия на мировом рынке предполагается на уровне 2,5&#37;.",
+    "investAmount": "505",
+    "geogwidth": "52.331442530512",
+    "geoglength": "104.19458503343",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "АО &quot;АЭХК&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2018"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "250 тонн в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "505"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "35"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Создание совместного предприятия для производства особо чистого кварцевого концентрата"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_113",
+    "title": "Создание совместного предприятия для производства оксидов ниобия и тантала",
+    "longtext": "",
+    "cardText": "Проект предполагает создание с поставщиком сырья ООО &quot;ОКБ Сигнал&quot; и ЗАО &quot;АКТ Паритет&quot; совместного предприятия. Проект направлен на импортозамещение. Доля совместного предприятия предполагает 100&#37; рынка РФ и 2&#37; мирового рынка.",
+    "investAmount": "298",
+    "geogwidth": "52.250912742311",
+    "geoglength": "104.21259225879",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "АО &quot;АЭХК&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "118 тонн ниобия в год, 70 тонн тантала в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "298"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "16,6"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "40"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Создание совместного предприятия для производства оксидов ниобия и тантала"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_112",
+    "title": "Расширение существующего производства ЗАО &quot;Реактив&quot;",
+    "longtext": "",
+    "cardText": "Строительство производственной площадки и приобретение инновационной установки для производства нефтяных растворителей. Сырьем для растворителей будет являться газовый конденсат.",
+    "investAmount": "73",
+    "geogwidth": "52.34854737544",
+    "geoglength": "104.24117314833",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ЗАО &quot;Реактив&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "10 тыс. тонн сырья в год или 7 тыс. тонн готовой продукции"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "73"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "29"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Расширение существующего производства ЗАО &quot;Реактив&quot;"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_111",
+    "title": "Строительство установки по производству катализаторов риформинга и изомеризации ( проект &quot;Платина&quot;)",
+    "longtext": "",
+    "cardText": "Проект направлен на замену изношенного производственного оборудования на более производительное и эффективное. В 2017 году планируется проведение экспериты ПСД, закупка оборудования.",
+    "investAmount": "2094",
+    "geogwidth": "52.211280598509",
+    "geoglength": "104.21945871387",
+    "categoryId": "48",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "АО &quot;Ангарский завод катализаторов и органического синтеза&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2013"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2019"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "600 тонн в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "2094"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "659"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Да"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство установки по производству катализаторов риформинга и изомеризации ( проект &quot;Платина&quot;)"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_109",
+    "title": "Разработка месторождения Сухой Лог и создание крупного производства по добыче 80-90 тонн золота и 20-25 тонн серебра в год",
+    "longtext": "",
+    "cardText": "",
+    "investAmount": "100",
+    "geogwidth": "54.521767",
+    "geoglength": "113.856613",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ООО &quot;СЛ Золото&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "запасы золота оцениваются в 1656 тонн, серебра – 1533,3 тонны"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "100"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Разработка месторождения Сухой Лог и создание крупного производства по добыче 80-90 тонн золота и 20-25 тонн серебра в год"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_108",
+    "title": "Освоение золоторудных месторождений",
+    "longtext": "",
+    "cardText": "В рамках проекта планируется увеличение мощностей горно-обогатительного комплекса на базе золоторудного месторождения «Вернинское» с 2,2 до 3,6 млн. тонн руды в год. Реализуется ОАО «Первенец» - дочерним и зависимым обществом ОАО «Полюс Золото».",
+    "investAmount": "13822",
+    "geogwidth": "51.521767",
+    "geoglength": "110.853313",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ПАО &quot;Полюс&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2013"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2020"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "Горно-обогатительный комплекс на базе золоторудного месторождения «Вернинское», расширение до 3,6 млн. тонн руды в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "13822"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "3537"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "3500"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Да"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Освоение золоторудных месторождений"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  },
+  {
+    "id": "bx_1076857107_107",
+    "title": "Строительство золотоизвлекательных фабрик на золоторудных месторождениях «Верхний Угахан», «Красное»",
+    "longtext": "",
+    "cardText": "Компанией реализуется проект по строительству золотоизвлекательных фабрик на золоторудных месторождениях «Верхний Угахан» мощностью 2,6 млн. тонн руды в год к 2017 году &#40;проект &quot;Угахан&quot;&#41;, а также на месторождении «Красное» мощностью 500 т. тонн руды в год к 2019 г. &#40;проект &quot;Красный&quot;&#41;. В результате реализации проектов объем производства золота будет увеличен на 2 575 кг в год, что способствует замещению добычи с основного действующего месторождения – Голец Высочайший, запасы которого истощаются. ",
+    "investAmount": "8000",
+    "geogwidth": "52.521767",
+    "geoglength": "111.854413",
+    "categoryId": "46",
+    "categoryName": "",
+    "images": [],
+    "props": {
+      "INITIATOR_OF_PROJECT": {
+        "name": "Инициатор проекта",
+        "value": "ПАО &quot;Высочайший&quot;"
+      },
+      "INVESTOR": {
+        "name": "Инвестор",
+        "value": "Нет"
+      },
+      "PROJECT_START": {
+        "name": "Начало реализации проекта",
+        "value": "01.01.2014"
+      },
+      "PROJECT_END": {
+        "name": "Завершение реализации проекта",
+        "value": "31.12.2027"
+      },
+      "PROJECT_POWER": {
+        "name": "Мощность проекта",
+        "value": "3 тонны золота в год"
+      },
+      "TOTAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Общий плановый объем инвестиций, млн. руб. ",
+        "value": "8000"
+      },
+      "ACTUAL_PLANDED_INVESTMENT_SIZE": {
+        "name": "Фактический объем инвестиций, млн. руб. ",
+        "value": "1955"
+      },
+      "MEMBERS": {
+        "name": "Количество создаваемых рабочих мест",
+        "value": "900"
+      },
+      "DOCUMMENTS": {
+        "name": "Наличие документации",
+        "value": "Нет"
+      },
+      "NEED_FOR_FINANCING": {
+        "name": "Потребность в финансировании ",
+        "value": "Нет"
+      },
+      "SUCCESSFUL_PROJECT": {
+        "name": "Успешный проект",
+        "value": "Нет"
+      },
+      "NAME": {
+        "name": "Название",
+        "value": "Строительство золотоизвлекательных фабрик на золоторудных месторождениях «Верхний Угахан», «Красное»"
+      }
+    },
+    "popupProps": [
+      "PROJECT_END",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ],
+    "tableProps": [
+      "NAME",
+      "PROJECT_INDUSTRY",
+      "PROJECT_MUNICIPALITY",
+      "TOTAL_PLANDED_INVESTMENT_SIZE"
+    ]
+  }
+]
