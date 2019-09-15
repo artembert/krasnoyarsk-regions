@@ -1,7 +1,6 @@
 const fs = require("fs");
 const projects = require("./projects");
 
-const COST_DIVIDER = 1000000;
 const LOCATION_PREFIX = "Республика Бурятия, ";
 
 const commonArray = [].concat(...projects.map(item => item.features));
