@@ -10,6 +10,8 @@ const mappedProjects = projects
 		municipal: `${item.fields.ia138}, ${item.fields.ia139}`,
 		investor: item.fields.ia135,
 		cost: getCost(item.fields.ia141),
+		start: item.fields.ia152,
+		end: item.fields.ia153,
 	}));
 
 console.log("Length:" + mappedProjects.length);
