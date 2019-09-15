@@ -20,10 +20,6 @@ console.log("Length:" + mappedProjects.length);
 console.log(mappedProjects[2]);
 fs.writeFile("buryatia-projects.json", JSON.stringify(mappedProjects, null, 4), () => (console.log("successful")));
 
-function getCost(cost) {
-	return Math.floor(cost / COST_DIVIDER);
-}
-
 function getLocation(address) {
 	if (address && address.includes(LOCATION_PREFIX)) {
 		return address.substring(LOCATION_PREFIX.length - 1).trim();
