@@ -1,0 +1,4523 @@
+[
+  {
+    "id": 230,
+    "type": "folder",
+    "code": "folder",
+    "name": "Инвестиционные проекты",
+    "sort": 1,
+    "icon": "/static/geoicons/folder.png",
+    "selected": true,
+    "parent_id": 0,
+    "render_type": 0,
+    "map_layer_id": 230,
+    "style_mode": 0
+  },
+  {
+    "id": 242,
+    "type": "virtual",
+    "code": "ia6_149",
+    "name": "Торговля и предоставление услуг",
+    "sort": 1,
+    "icon": "/static/pub_icons/altai/5404c93d56ed6a4bbcc54d14d55ffb2c.png",
+    "selected": true,
+    "parent_id": 230,
+    "render_type": 1,
+    "map_layer_id": 242,
+    "vectorSettings": {
+      "id": 58,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 7587,
+      "popupColumnCode": "ia130",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": "/img/altai/tamozhennye_organy.png",
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/torgovlja_i_predostavlenie_uslug.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia6",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c1c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#baba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 243,
+    "type": "virtual",
+    "code": "ia6_150",
+    "name": "Жилищное строительство",
+    "sort": 2,
+    "icon": "/static/pub_icons/altai/fcd8501c2bd10374089be8d68f4400c5.png",
+    "selected": true,
+    "parent_id": 230,
+    "render_type": 1,
+    "map_layer_id": 243,
+    "vectorSettings": {
+      "id": 59,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 7656,
+      "popupColumnCode": "ia130",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": "/img/altai/tamozhennye_organy.png",
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/zhilishhnoe_stroitelstvo.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia6",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c1c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#baba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 257,
+    "type": "virtual",
+    "code": "ia6_151",
+    "name": "Туризм и рекреация",
+    "sort": 3,
+    "icon": "/static/pub_icons/altai/3f844c6fc57a8effe95168eff18d17b5.png",
+    "selected": true,
+    "parent_id": 230,
+    "render_type": 1,
+    "map_layer_id": 257,
+    "vectorSettings": {
+      "id": 69,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 8760,
+      "popupColumnCode": "ia130",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/turizm_i_rekreacija.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "virtual12",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 258,
+    "type": "virtual",
+    "code": "ia6_974",
+    "name": "Сельское хозяйство",
+    "sort": 4,
+    "icon": "/static/pub_icons/altai/389d925bd82691da7be360dd4afc8f6f.png",
+    "selected": true,
+    "parent_id": 230,
+    "render_type": 1,
+    "map_layer_id": 258,
+    "vectorSettings": {
+      "id": 70,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 8829,
+      "popupColumnCode": "ia130",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/selskoe_hozjajstvo.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "virtual",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c1c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#baba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 259,
+    "type": "virtual",
+    "code": "ia6_975",
+    "name": "Промышленное производство",
+    "sort": 5,
+    "icon": "/static/pub_icons/altai/e67aa092fbe060ded9b864d921f5f202.png",
+    "selected": true,
+    "parent_id": 230,
+    "render_type": 1,
+    "map_layer_id": 259,
+    "vectorSettings": {
+      "id": 71,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 8898,
+      "popupColumnCode": "ia130",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/promyshlennoe_proizvodstvo.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "virtual1",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c192",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba84",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 260,
+    "type": "virtual",
+    "code": "ia6_976",
+    "name": "Прочее",
+    "sort": 6,
+    "icon": "/static/pub_icons/altai/b51c0763b830db1960d3c43fad595834.png",
+    "selected": true,
+    "parent_id": 230,
+    "render_type": 1,
+    "map_layer_id": 260,
+    "vectorSettings": {
+      "id": 72,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 8967,
+      "popupColumnCode": "ia130",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/prochee.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "virtual2",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#333333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#191919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 231,
+    "type": "folder",
+    "code": "folder1",
+    "name": "Предложения инвестору",
+    "sort": 2,
+    "icon": "/static/geoicons/folder.png",
+    "selected": true,
+    "parent_id": 0,
+    "render_type": 0,
+    "map_layer_id": 231,
+    "style_mode": 0
+  },
+  {
+    "id": 250,
+    "type": "virtual",
+    "code": "ia5_1201",
+    "name": "Торговля и предоставление услуг",
+    "sort": 1,
+    "icon": "/static/pub_icons/altai/555e5807f51092d4f589b5e32d8a5df9.png",
+    "selected": true,
+    "parent_id": 231,
+    "render_type": 1,
+    "map_layer_id": 250,
+    "vectorSettings": {
+      "id": 119,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 8301,
+      "popupColumnCode": "ia352",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/torgovlja_i_predostavlenie_uslug_1.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia5",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c133c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba19ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 249,
+    "type": "virtual",
+    "code": "ia5_1202",
+    "name": "Жилищное строительство",
+    "sort": 2,
+    "icon": "/static/pub_icons/altai/1fd2a19f18fe9fa86090e6a8e6337ae7.png",
+    "selected": true,
+    "parent_id": 231,
+    "render_type": 1,
+    "map_layer_id": 249,
+    "vectorSettings": {
+      "id": 120,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 8209,
+      "popupColumnCode": "ia352",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/zhilishhnoe_stroitelstvo_1.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia5",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c133c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba19ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 261,
+    "type": "virtual",
+    "code": "ia5_1203",
+    "name": "Туризм и рекреация",
+    "sort": 3,
+    "icon": "/static/pub_icons/altai/1b5fa3ac40a8453ae145669586a17cca.png",
+    "selected": true,
+    "parent_id": 231,
+    "render_type": 1,
+    "map_layer_id": 261,
+    "vectorSettings": {
+      "id": 73,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 9083,
+      "popupColumnCode": "ia352",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/turizm_i_rekreacija_1.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "virtual3",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3333c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1919ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 247,
+    "type": "virtual",
+    "code": "ia5_1204",
+    "name": "Сельское хозяйство",
+    "sort": 4,
+    "icon": "/static/pub_icons/altai/3c2a5c9c70b67175e07942c617edd1e2.png",
+    "selected": true,
+    "parent_id": 231,
+    "render_type": 1,
+    "map_layer_id": 247,
+    "vectorSettings": {
+      "id": 121,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": false,
+      "popupColumn": 8022,
+      "popupColumnCode": "orbis_id",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/selskoe_hozjajstvo_1.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia5",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c133c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba19ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 246,
+    "type": "virtual",
+    "code": "ia5_1205",
+    "name": "Промышленное производство",
+    "sort": 5,
+    "icon": "/static/pub_icons/altai/8e1313e42b909ce2b679ccda9845301f.png",
+    "selected": true,
+    "parent_id": 231,
+    "render_type": 1,
+    "map_layer_id": 246,
+    "vectorSettings": {
+      "id": 122,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 7933,
+      "popupColumnCode": "ia352",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/promyshlennoe_proizvodstvo_1.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia5",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c133c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba19ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 262,
+    "type": "virtual",
+    "code": "ia5_1206",
+    "name": "Прочее",
+    "sort": 6,
+    "icon": "/static/pub_icons/altai/0e238cceccd7fb510bbb8f6a721070c2.png",
+    "selected": true,
+    "parent_id": 231,
+    "render_type": 1,
+    "map_layer_id": 262,
+    "vectorSettings": {
+      "id": 74,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 9175,
+      "popupColumnCode": "ia352",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/prochee_1.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "virtual9",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 232,
+    "type": "folder",
+    "code": "folder2",
+    "name": "Инвестиционные площадки",
+    "sort": 3,
+    "icon": "/static/geoicons/folder.png",
+    "selected": true,
+    "parent_id": 0,
+    "render_type": 0,
+    "map_layer_id": 232,
+    "style_mode": 0
+  },
+  {
+    "id": 280,
+    "type": "virtual",
+    "code": "ia85_1040",
+    "name": "Технопарки",
+    "sort": 1,
+    "icon": "/static/pub_icons/altai/6b2a031b74b647388332d1302e8e8269.png",
+    "selected": true,
+    "parent_id": 232,
+    "render_type": 1,
+    "map_layer_id": 280,
+    "vectorSettings": {
+      "id": 124,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 10150,
+      "popupColumnCode": "ia65",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/tehnoparki.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia85_1040",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c13333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba1919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 273,
+    "type": "virtual",
+    "code": "ia85_1041",
+    "name": "Индустриальные парки",
+    "sort": 2,
+    "icon": "/static/pub_icons/altai/9a3db084d30d4557a26979ca2be4b345.png",
+    "selected": true,
+    "parent_id": 232,
+    "render_type": 1,
+    "map_layer_id": 273,
+    "vectorSettings": {
+      "id": 109,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 9794,
+      "popupColumnCode": "ia65",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/industrialnye_parki.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "virtual_indparks",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c13333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba1919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 281,
+    "type": "virtual",
+    "code": "ia85_1042",
+    "name": "ОЭЗ, ТОСЭР",
+    "sort": 3,
+    "icon": "/static/pub_icons/altai/3c075d8869554ed1b9b45b5b2a8ea671.png",
+    "selected": true,
+    "parent_id": 232,
+    "render_type": 1,
+    "map_layer_id": 281,
+    "vectorSettings": {
+      "id": 128,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 10250,
+      "popupColumnCode": "ia65",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "radius": 40,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "iconSizeMin": 15,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconDy": 0,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "showObjectsCount": true
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/ojez.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia85_1042",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c13333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba1919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 282,
+    "type": "virtual",
+    "code": "ia85_1043",
+    "name": "Туристско-рекреационный кластер",
+    "sort": 4,
+    "icon": "/static/pub_icons/altai/2dbd0788ee87476eaba1be3523d5b638.png",
+    "selected": true,
+    "parent_id": 232,
+    "render_type": 1,
+    "map_layer_id": 282,
+    "vectorSettings": {
+      "id": 129,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 10350,
+      "popupColumnCode": "ia65",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/turistsko_rekreacionnyj_klaster.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia85_1043",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#333333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#191919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 283,
+    "type": "virtual",
+    "code": "ia85_1044",
+    "name": "Биофармацевтический кластер",
+    "sort": 5,
+    "icon": "/static/pub_icons/altai/6269f57200274439a504cbf86471af7a.png",
+    "selected": true,
+    "parent_id": 232,
+    "render_type": 1,
+    "map_layer_id": 283,
+    "vectorSettings": {
+      "id": 125,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 10450,
+      "popupColumnCode": "ia65",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/biofarmacevticheskij_klaster.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia85_1044",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3333c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1919ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 284,
+    "type": "virtual",
+    "code": "ia85_1045",
+    "name": "Агропромышленный кластер",
+    "sort": 6,
+    "icon": "/static/pub_icons/altai/fa055c7154ac458cb5997c94e10cd508.png",
+    "selected": true,
+    "parent_id": 232,
+    "render_type": 1,
+    "map_layer_id": 284,
+    "vectorSettings": {
+      "id": 126,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 10550,
+      "popupColumnCode": "ia65",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/agropromyshlennyj_klaster.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia85_1045",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c192",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba84",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 285,
+    "type": "virtual",
+    "code": "ia85_1047",
+    "name": "Игорная зона Сибирская монета",
+    "sort": 7,
+    "icon": "/static/pub_icons/altai/f0747f1d64e545538a4f992efb858510.png",
+    "selected": true,
+    "parent_id": 232,
+    "render_type": 1,
+    "map_layer_id": 285,
+    "vectorSettings": {
+      "id": 130,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 10650,
+      "popupColumnCode": "ia65",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/igornaja_zona.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia85_1047",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#333333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#191919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 175,
+    "type": "layer",
+    "code": "ia12",
+    "name": "Браунфилды",
+    "sort": 9,
+    "icon": "/static/pub_icons/altai/bbea28d3e140718de126ca119790ace0.png",
+    "selected": true,
+    "parent_id": 232,
+    "render_type": 1,
+    "map_layer_id": 175,
+    "vectorSettings": {
+      "id": 76,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 4326,
+      "popupColumnCode": "ia175",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/braunfildy.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia12",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c192",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba84",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 183,
+    "type": "layer",
+    "code": "ia13",
+    "name": "Гринфилды",
+    "sort": 10,
+    "icon": "/static/pub_icons/altai/e8f12f2daf0f5170af958ef748376116.png",
+    "selected": true,
+    "parent_id": 232,
+    "render_type": 1,
+    "map_layer_id": 183,
+    "vectorSettings": {
+      "id": 75,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 5099,
+      "popupColumnCode": "ia175",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/grinfildy.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia13",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c13333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba1919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 233,
+    "type": "folder",
+    "code": "folder3",
+    "name": "Информационные слои",
+    "sort": 4,
+    "icon": "/static/geoicons/folder.png",
+    "selected": false,
+    "parent_id": 0,
+    "render_type": 0,
+    "map_layer_id": 233,
+    "style_mode": 0
+  },
+  {
+    "id": 176,
+    "type": "layer",
+    "code": "ia3",
+    "name": "Административное устройство",
+    "sort": 1,
+    "icon": "/static/pub_icons/altai/ec50d6aa59310964f5a6c08937bb24c2.png",
+    "selected": false,
+    "parent_id": 233,
+    "render_type": 1,
+    "map_layer_id": 176,
+    "vectorSettings": {
+      "id": 110,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 9683,
+      "popupColumnCode": "ia25",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/administrativnoe_ustrojstvo.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia3",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3333c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1919ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 184,
+    "type": "layer",
+    "code": "ia14",
+    "name": "Ведущие строительные организации",
+    "sort": 2,
+    "icon": "/static/pub_icons/altai/2fa37ae3af8052ef779dbbb71976ee96.png",
+    "selected": false,
+    "parent_id": 233,
+    "render_type": 1,
+    "map_layer_id": 184,
+    "vectorSettings": {
+      "id": 82,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 5258,
+      "popupColumnCode": "ia163",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/vedushhie_stroitelnye_organizacii.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia14",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3333c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1919ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 185,
+    "type": "layer",
+    "code": "ia15",
+    "name": "ВУЗы и НИИ",
+    "sort": 3,
+    "icon": "/static/pub_icons/altai/b53a9699f41349198a9f6264f9e92578.png",
+    "selected": false,
+    "parent_id": 233,
+    "render_type": 1,
+    "map_layer_id": 185,
+    "vectorSettings": {
+      "id": 79,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 5286,
+      "popupColumnCode": "ia163",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/vuzy_i_nii.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia15",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c1c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#baba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 186,
+    "type": "layer",
+    "code": "ia16",
+    "name": "Таможенные органы",
+    "sort": 4,
+    "icon": "/static/pub_icons/altai/111adcbaab7a1e58b5e02a3e2e1c8dfa.png",
+    "selected": false,
+    "parent_id": 233,
+    "render_type": 1,
+    "map_layer_id": 186,
+    "vectorSettings": {
+      "id": 80,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 5314,
+      "popupColumnCode": "ia163",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/tamozhennye_organy.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia16",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 187,
+    "type": "layer",
+    "code": "ia17",
+    "name": "Банки",
+    "sort": 5,
+    "icon": "/static/pub_icons/altai/2f81219059768a88d182c058678884d3.png",
+    "selected": false,
+    "parent_id": 233,
+    "render_type": 1,
+    "map_layer_id": 187,
+    "vectorSettings": {
+      "id": 81,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 5342,
+      "popupColumnCode": "ia163",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/banki.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia17",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c192",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba84",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 234,
+    "type": "folder",
+    "code": "folder4",
+    "name": "Инфраструктура",
+    "sort": 5,
+    "icon": "/static/geoicons/folder.png",
+    "selected": false,
+    "parent_id": 0,
+    "render_type": 0,
+    "map_layer_id": 234,
+    "style_mode": 0
+  },
+  {
+    "id": 235,
+    "type": "folder",
+    "code": "folder5",
+    "name": "Прочая",
+    "sort": 1,
+    "icon": "/static/geoicons/folder.png",
+    "selected": false,
+    "parent_id": 234,
+    "render_type": 0,
+    "map_layer_id": 235,
+    "style_mode": 0
+  },
+  {
+    "id": 226,
+    "type": "layer",
+    "code": "ia101",
+    "name": "Водоснабжение",
+    "sort": 1,
+    "icon": "/static/pub_icons/altai/5e95561c5d0c8f959f7ebfa05e7e07d4.png",
+    "selected": false,
+    "parent_id": 235,
+    "render_type": 1,
+    "map_layer_id": 226,
+    "vectorSettings": {
+      "id": 83,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 7169,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/vodosnabzhenie.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia101",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 227,
+    "type": "layer",
+    "code": "ia102",
+    "name": "Теплоснабжение",
+    "sort": 2,
+    "icon": "/static/pub_icons/altai/2666b2c6348424b2439f5593e02642a0.png",
+    "selected": false,
+    "parent_id": 235,
+    "render_type": 1,
+    "map_layer_id": 227,
+    "vectorSettings": {
+      "id": 84,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 7200,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/teplosnabzhenie.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia102",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f8fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2d6e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f8fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2d6e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3392c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1984ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 228,
+    "type": "layer",
+    "code": "ia103",
+    "name": "Связь",
+    "sort": 3,
+    "icon": "/static/pub_icons/altai/11daf45b0c752f3a2291f1d7114c55a9.png",
+    "selected": false,
+    "parent_id": 235,
+    "render_type": 1,
+    "map_layer_id": 228,
+    "vectorSettings": {
+      "id": 85,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 7231,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/svjaz.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia103",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c13333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba1919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 236,
+    "type": "folder",
+    "code": "folder6",
+    "name": "Транспортная",
+    "sort": 2,
+    "icon": "/static/geoicons/folder.png",
+    "selected": false,
+    "parent_id": 234,
+    "render_type": 0,
+    "map_layer_id": 236,
+    "style_mode": 0
+  },
+  {
+    "id": 196,
+    "type": "layer",
+    "code": "ia56",
+    "name": "Автодороги",
+    "sort": 1,
+    "icon": "/static/pub_icons/altai/3ae1dd410d8cce5e77c895502ab5314e.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 196,
+    "vectorSettings": {
+      "id": 86,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6170,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/avtodorogi.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia56",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f8fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2d6e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f8fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2d6e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3392c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1984ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 210,
+    "type": "layer",
+    "code": "ia70",
+    "name": "Автодороги строящиеся",
+    "sort": 2,
+    "icon": "/static/pub_icons/altai/e935e909b986a1f56914dd42e455a82d.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 210,
+    "vectorSettings": {
+      "id": 87,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6604,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/avtodorogi_strojashhiesja.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia70",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c192",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba84",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 211,
+    "type": "layer",
+    "code": "ia71",
+    "name": "Железные дороги строящиеся",
+    "sort": 3,
+    "icon": "/static/pub_icons/altai/05467668457f2e309c207df728c69670.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 211,
+    "vectorSettings": {
+      "id": 114,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6635,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/zheleznye_dorogi_strojashhiesja.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia71",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 198,
+    "type": "layer",
+    "code": "ia58",
+    "name": "Автовокзалы",
+    "sort": 4,
+    "icon": "/static/pub_icons/altai/62fbf9fc16f4e9ff9679a552e4b26255.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 198,
+    "vectorSettings": {
+      "id": 88,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6232,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/avtovokzaly.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia58",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f8fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2d6e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f8fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2d6e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3392c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1984ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 199,
+    "type": "layer",
+    "code": "ia59",
+    "name": "Ж/д вокзалы",
+    "sort": 5,
+    "icon": "/static/pub_icons/altai/8b97f45f42bf0d6f24f2b9c54e68b28d.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 199,
+    "vectorSettings": {
+      "id": 89,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6263,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/zhd_vokzaly.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia59",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c133c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba19ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 213,
+    "type": "layer",
+    "code": "ia73",
+    "name": "Ж/д вокзалы строящиеся",
+    "sort": 6,
+    "icon": "/static/pub_icons/altai/bab25cf36b4ff6f3e2ba54ce75b1bc49.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 213,
+    "vectorSettings": {
+      "id": 116,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6697,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/zhd_vokzaly_strojashhiesja.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia73",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#333333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#191919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 200,
+    "type": "layer",
+    "code": "ia60",
+    "name": "Речные вокзалы",
+    "sort": 7,
+    "icon": "/static/pub_icons/altai/5ed700a3284dc623668f3b5fd6103efb.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 200,
+    "vectorSettings": {
+      "id": 90,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6294,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/rechnye_vokzaly.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia60",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f8fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2d6e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f8fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2d6e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3392c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1984ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 201,
+    "type": "layer",
+    "code": "ia61",
+    "name": "Аэропорты",
+    "sort": 8,
+    "icon": "/static/pub_icons/altai/973b7f6fdbf9c214d4e9f2ee6bfc82fb.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 201,
+    "vectorSettings": {
+      "id": 91,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6325,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/ajeroporty.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia61",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbfbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c1c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#baba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 215,
+    "type": "layer",
+    "code": "ia75",
+    "name": "Аэропорты строящиеся",
+    "sort": 9,
+    "icon": "/static/pub_icons/altai/c1d4711fa9b53a5475b7c5aebc6fd954.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 215,
+    "vectorSettings": {
+      "id": 118,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6759,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/ajeroporty_strojashhiesja.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia75",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c133",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba19",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 202,
+    "type": "layer",
+    "code": "ia62",
+    "name": "Мосты",
+    "sort": 10,
+    "icon": "/static/pub_icons/altai/400a26a054381ff86234e0b13fca8cac.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 202,
+    "vectorSettings": {
+      "id": 92,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6356,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/mosty.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia62",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2fbf8"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2e8d6",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#33c192",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#19ba84",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 216,
+    "type": "layer",
+    "code": "ia76",
+    "name": "Мосты строящиеся",
+    "sort": 11,
+    "icon": "/static/pub_icons/altai/e5e8625edc74b7cf914a477a00c382ea.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 216,
+    "vectorSettings": {
+      "id": 93,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6790,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/mosty_strojashhiesja.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia76",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c13333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba1919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 217,
+    "type": "layer",
+    "code": "ia77",
+    "name": "Газопроводы строящиеся",
+    "sort": 12,
+    "icon": "/static/pub_icons/altai/4360144014da8ac95f3dfc78872bed7a.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 217,
+    "vectorSettings": {
+      "id": 95,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6821,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/gazoprovody_strojashhiesja.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia77",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c133c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba19ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 276,
+    "type": "layer",
+    "code": "ia77_geom",
+    "name": "Газопроводы строящиеся - линии",
+    "sort": 1,
+    "icon": "/static/geoicons/line.png",
+    "selected": false,
+    "parent_id": 217,
+    "render_type": 0,
+    "map_layer_id": 276,
+    "style_mode": 2
+  },
+  {
+    "id": 203,
+    "type": "layer",
+    "code": "ia63",
+    "name": "Газопроводы",
+    "sort": 13,
+    "icon": "/static/pub_icons/altai/0c12e4793e2d25471d4a1c100a969c32.png",
+    "selected": false,
+    "parent_id": 236,
+    "render_type": 1,
+    "map_layer_id": 203,
+    "vectorSettings": {
+      "id": 94,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6387,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/gazoprovody.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia63",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2f2"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2b2",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#333333",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#191919",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 274,
+    "type": "layer",
+    "code": "ia63_geom",
+    "name": "Газопроводы - линии",
+    "sort": 1,
+    "icon": "/static/geoicons/line.png",
+    "selected": false,
+    "parent_id": 203,
+    "render_type": 0,
+    "map_layer_id": 274,
+    "style_mode": 2
+  },
+  {
+    "id": 237,
+    "type": "folder",
+    "code": "folder7",
+    "name": "Энергетическая",
+    "sort": 3,
+    "icon": "/static/geoicons/folder.png",
+    "selected": false,
+    "parent_id": 234,
+    "render_type": 0,
+    "map_layer_id": 237,
+    "style_mode": 0
+  },
+  {
+    "id": 205,
+    "type": "layer",
+    "code": "ia65",
+    "name": "ЛЭП",
+    "sort": 1,
+    "icon": "/static/pub_icons/altai/37cb912803cec57530570b4ed0cdacdd.png",
+    "selected": false,
+    "parent_id": 237,
+    "render_type": 1,
+    "map_layer_id": 205,
+    "vectorSettings": {
+      "id": 96,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6449,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/ljep.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia65",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3333c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1919ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 275,
+    "type": "layer",
+    "code": "ia65_geom",
+    "name": "ЛЭП - линии",
+    "sort": 1,
+    "icon": "/static/geoicons/line.png",
+    "selected": false,
+    "parent_id": 205,
+    "render_type": 0,
+    "map_layer_id": 275,
+    "style_mode": 2
+  },
+  {
+    "id": 219,
+    "type": "layer",
+    "code": "ia79",
+    "name": "ЛЭП строящиеся",
+    "sort": 2,
+    "icon": "/static/pub_icons/altai/ac586956c3e5a3a1607124c25ee8527c.png",
+    "selected": false,
+    "parent_id": 237,
+    "render_type": 1,
+    "map_layer_id": 219,
+    "vectorSettings": {
+      "id": 97,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6883,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/ljep_strojashhiesja.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia79",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#f2f2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#b2b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#3333c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#1919ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  },
+  {
+    "id": 277,
+    "type": "layer",
+    "code": "ia79_geom",
+    "name": "ЛЭП строящиеся - линии",
+    "sort": 1,
+    "icon": "/static/geoicons/line.png",
+    "selected": false,
+    "parent_id": 219,
+    "render_type": 0,
+    "map_layer_id": 277,
+    "style_mode": 2
+  },
+  {
+    "id": 220,
+    "type": "layer",
+    "code": "ia80",
+    "name": "Подстанции строящиеся",
+    "sort": 3,
+    "icon": "/static/pub_icons/altai/0b9caf30078609e3f66b1641b315a502.png",
+    "selected": false,
+    "parent_id": 237,
+    "render_type": 1,
+    "map_layer_id": 220,
+    "vectorSettings": {
+      "id": 98,
+      "code": "entity",
+      "zoomsEnabled": true,
+      "maxZoom": 19,
+      "minZoom": 7,
+      "showPopup": true,
+      "popupColumn": 6914,
+      "popupColumnCode": "ia267",
+      "clusteringEnabled": true,
+      "clusterSettings": {
+        "maxZoom": 12,
+        "showObjectsCount": true,
+        "iconDx": 0,
+        "objectsCountDx": 18,
+        "iconSizeMax": 25,
+        "objectsCountDy": -18,
+        "clusteringType": "client",
+        "iconOffsetEnabled": false,
+        "radius": 40,
+        "splitByCategories": false,
+        "iconSizeEnabled": false,
+        "iconSizeMin": 15,
+        "iconEnabled": false,
+        "maxZoomEnabled": false,
+        "icon": null,
+        "iconDy": 0
+      },
+      "stylesPoint": {
+        "iconDy": 0,
+        "icon": "/img/altai/podstancii.png",
+        "iconOffsetEnabled": false,
+        "iconDx": 0
+      },
+      "stylesLine": {},
+      "stylesPolygon": {},
+      "stylesText": {},
+      "stylesMapnik": {
+        "Map": {
+          "Style": {
+            "@name": "ia80",
+            "@filter-mode": "first",
+            "Rule": [
+              {
+                "Filter": "([mapnik::geometry_type] = 4)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 3)",
+                "PolygonSymbolizer": {
+                  "@fill": "#fbf2fb"
+                },
+                "LineSymbolizer": {
+                  "@stroke": "#e8b2e8",
+                  "@stroke-width": "1"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 2)",
+                "LineSymbolizer": {
+                  "@stroke": "#c133c1",
+                  "@stroke-width": "2"
+                }
+              },
+              {
+                "Filter": "([mapnik::geometry_type] = 1)",
+                "MarkersSymbolizer": {
+                  "@fill": "#ffffff",
+                  "@stroke": "#ba19ba",
+                  "@stroke-width": "2",
+                  "@allow-overlap": "true"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "style_mode": 1
+  }
+]
