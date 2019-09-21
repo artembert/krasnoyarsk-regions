@@ -12,6 +12,8 @@ const mappedProjects = projects
 		cost: getCost(item.fields.ia141),
 		start: item.fields.ia152,
 		end: item.fields.ia153,
+		x: item.geom.coordinates[0],
+		y: item.geom.coordinates[1],
 	}));
 
 console.log("Length:" + mappedProjects.length);
