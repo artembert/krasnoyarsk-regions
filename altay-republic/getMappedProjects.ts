@@ -22,7 +22,7 @@ const mappedProjects: InvestProject[] = projects
         item.Tabs[0].Areas[1].Properties, "Планируемый срок окончания"),
       investor: getValueFromArray(
         item.Tabs[0].Areas[1].Properties, "Компании инвесторы"),
-      cost: getCost(getValueFromArray(
+      cost_mln: getCost(getValueFromArray(
         item.Tabs[0].Areas[1].Properties, "Запланированный объем инвестиций (руб)")),
       id,
       x: getCoordinates(id)[0],
@@ -30,7 +30,7 @@ const mappedProjects: InvestProject[] = projects
       crs: "EPSG:4326"
     }
   })
-  .filter(item => item.cost);
+  .filter(item => item.cost_mln);
 
 console.log("Length:" + mappedProjects.length);
 console.log(mappedProjects[3]);

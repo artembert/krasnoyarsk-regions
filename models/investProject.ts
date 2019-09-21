@@ -3,7 +3,7 @@ export interface InvestProject {
   description?: string,
   municipal?: string,
   investor?: string,
-  cost: string | number,
+  cost_mln: string | number,
   start?: string,
   end?: string,
   x?: number,

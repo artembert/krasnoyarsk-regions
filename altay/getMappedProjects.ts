@@ -10,7 +10,7 @@ const mappedProjects: InvestProject[] = projects
 		description: item.fields.ia158,
 		municipal: `${item.fields.ia138}, ${item.fields.ia139}`,
 		investor: item.fields.ia135,
-		cost: getCost(item.fields.ia141),
+		cost_mln: getCost(item.fields.ia141),
 		start: item.fields.ia152,
 		end: item.fields.ia153,
 		x: item.geom.coordinates[0],
