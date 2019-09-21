@@ -8,4 +8,5 @@ export interface InvestProject {
   end?: string,
   x?: number,
   y?: number,
+  crs?: string,
 }
