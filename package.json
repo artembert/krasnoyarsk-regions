@@ -1,0 +1,23 @@
+{
+  "name": "krasnoyarsk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artembert/krasnoyarsk-regions.git"
+  },
+  "author": "artembert@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artembert/krasnoyarsk-regions/issues"
+  },
+  "homepage": "https://github.com/artembert/krasnoyarsk-regions#readme",
+  "dependencies": {
+    "@types/node": "^12.7.5",
+    "json2csv": "^4.5.3"
+  }
+}
