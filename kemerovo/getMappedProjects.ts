@@ -17,9 +17,9 @@ const mappedProjects: InvestProject[] = projects
     start: "",
 		type: item.properties.branch_id[0],
 		cost_mln: getCost(item.properties.total_cost),
-    x: item.geometry.coordinates[0],
-    y: item.geometry.coordinates[1],
-    crs: "",
+    x: item.geometry.coordinates[1],
+    y: item.geometry.coordinates[0],
+    crs: "EPSG:4326",
 	}))
   .filter(item => item.cost_mln && allowTypes.includes(item.type));
 
