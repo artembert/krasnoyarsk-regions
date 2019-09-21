@@ -1,10 +1,10 @@
 import WriteFiles from "../utils/write-files";
-
-const projects = require("./projects");
+import {InvestProject} from "../models/investProject";
+import projects from "./projects.json"
 
 const COST_DIVIDER = 1000000;
 
-const mappedProjects = projects
+const mappedProjects: InvestProject[] = projects
 	.map(item => ({
 		name: item.fields.ia130,
 		description: item.fields.ia158,
