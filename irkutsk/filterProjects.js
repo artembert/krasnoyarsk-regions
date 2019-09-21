@@ -1,5 +1,7 @@
 const fs = require("fs");
+// @ts-ignore
 const projects = require("./projects_decode");
+// @ts-ignore
 const types = require("./types");
 
 const allowTypes = ["46", "48", "49", "52", "55", "57", "58", "60", "62"];
