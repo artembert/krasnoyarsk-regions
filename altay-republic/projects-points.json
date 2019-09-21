@@ -1,0 +1,1030 @@
+[
+  {
+    "Objects": [
+      {
+        "Status": 2,
+        "Total": 1000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            86.141573,
+            50.743445
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3379,
+        "Title": "Социальная гостиница \"Ильгумен\"",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 10000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            87.257864,
+            51.783429
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3378,
+        "Title": "Создание туристического комплекса круглогодичного действия на берегу реки Бия в Турочакском районе Республики Алтай .",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 1080000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            86.62651,
+            50.451726
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3386,
+        "Title": "Организация базы отдыха \"Эркелей\"",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 21000000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.797087,
+            51.814714
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 1045,
+        "Title": "Горнолыжный комплекс \"Манжерок\"",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 1000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            87.930181,
+            50.232864
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3398,
+        "Title": "Туристическая база в с.Кош-Агач",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 500000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            86.01710200309752,
+            51.3889632712241
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 2215,
+        "Title": "Санаторно-курортный комплекс «Неопант-Чемал»",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 159525000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            86.340866088867188,
+            51.481382896100975
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 2213,
+        "Title": "КРК \"Седьмое небо\"",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 76493400.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            87.265356,
+            51.792994
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3375,
+        "Title": "Строительство спортивно развлекательного горнолыжного комплекса «Артыбаш»",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 10000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.760067,
+            51.642329
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3377,
+        "Title": "Строительство гостиничного комплекса на берегу реки Катунь в Чемальском районе Республики Алтай ",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 1000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.743192,
+            50.010939
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3395,
+        "Title": "Туристический комплекс «Караван»",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 366940000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.998498,
+            51.458318
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 2214,
+        "Title": "Развлекательный комплекс \"Рублевка\"",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 2010000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            86.210734,
+            51.685635
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 1047,
+        "Title": "Гостиничный комплекс \"Алтай-Resort\"",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 0.0,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.675158,
+            51.289424
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 2242,
+        "Title": "Туристический комплекс \"Малиновый остров\"",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 300000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.566929,
+            51.568794
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 2300,
+        "Title": "Туристическая стоянка \"Чедоев Привал\"",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 0.0,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            87.991545,
+            49.791828
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 17560,
+        "Title": "Спортивно-оздоровительный центр \"Престиж\"",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 0.0,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.499969,
+            51.326529
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 17561,
+        "Title": "Агро-туристический центр \"Эко Алтай\"",
+        "Enabled": false
+      }
+    ],
+    "BackgroundColor": null,
+    "BorderColor": null,
+    "ImageID": "5fd194e8-14ab-4ce3-ae69-c964d0c7b6a0",
+    "Count": 16,
+    "ID": 13,
+    "Title": "Индустрия гостеприимства",
+    "Enabled": false
+  },
+  {
+    "Objects": [
+      {
+        "Status": 2,
+        "Total": 95000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            84.768516,
+            50.926397
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3380,
+        "Title": "Диетическое мясо пожилым и малообеспеченным гражданам в Усть-Канском районе Республики Алтай",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 2000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.896162,
+            52.003695
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3383,
+        "Title": "Строительство тепличного комплекса ",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 1500000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.24592399597168,
+            51.1124136623397
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 1089,
+        "Title": "Строительство скотоубойного пункта в селе Беш-Озек",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 2460000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.663269,
+            49.995706
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3400,
+        "Title": "Создание мясоперерабатывающего агрохолдинга   в Кош-Агачском районе  ",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 6202000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.675158,
+            51.289424
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 5404,
+        "Title": "Техническое перевооружение  молокоперерабатывающего предприятия",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 0.0,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.641413,
+            49.982118
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3402,
+        "Title": "Развитие мясоперерабатывающего предприятия в селе Кош-Агач»",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 2000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.665901,
+            49.993685
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3401,
+        "Title": "Комплекс убоя КРС и  мелко-рогатого скота с переработкой модульно-контейнерного типа                   ",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 4000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.743192,
+            50.010939
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3399,
+        "Title": "Молочная ферма и молокозавод",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 5409000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.675158,
+            51.289424
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 5403,
+        "Title": "Создание многопрофильного хозяйства производства: биоудобрения, грибов (вещенки), семенного картофеля и чеснока",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 7300000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            86.720932,
+            51.758701
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10438,
+        "Title": "Создание комплекса по производству и переработки молочной и мясной продукции",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 770000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            86.133676,
+            50.749652
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10439,
+        "Title": "Розлив и упаковка молочной продукции",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 700000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            86.133676,
+            50.749652
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10440,
+        "Title": "Расширение мощностей действующей мини-пекарни",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 3648648.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            87.657156,
+            51.927997
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10441,
+        "Title": "Организация сбора и переработки дикоросов на базе СПОК «Минор»",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 6888000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.995992,
+            51.892411
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10442,
+        "Title": "Увеличение мощностей действующего предприятия по выращиванию малька и товарной рыбы на базе ООО «Альянс» в с. Кызыл-Озёк Майминского района",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 83230000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.851264,
+            51.887075
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 17558,
+        "Title": "Создание комплекса по откорму скота и переработке мяса",
+        "Enabled": false
+      }
+    ],
+    "BackgroundColor": null,
+    "BorderColor": null,
+    "ImageID": "46d64d56-d120-4eb0-8c19-810485f4104e",
+    "Count": 15,
+    "ID": 10,
+    "Title": "Сельское хозяйство",
+    "Enabled": false
+  },
+  {
+    "Objects": [
+      {
+        "Status": 2,
+        "Total": 570000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.743192,
+            50.010939
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 1037,
+        "Title": "Строительство Солнечной электростанции в с.Кош-Агач",
+        "Enabled": false
+      }
+    ],
+    "BackgroundColor": null,
+    "BorderColor": null,
+    "ImageID": "8aca42c9-440e-4053-873d-3da5f0d24380",
+    "Count": 1,
+    "ID": 6,
+    "Title": "Электроэнергетика",
+    "Enabled": false
+  },
+  {
+    "Objects": [
+      {
+        "Status": 2,
+        "Total": 4070000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.665901,
+            49.993685
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3397,
+        "Title": "«Открытие частного гинекологического  кабинета по оказанию инновационных  услуг женскому населению»  ",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 2500000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.665901,
+            49.993685
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 3396,
+        "Title": "Стоматологическая клиника \"Улыбка\"",
+        "Enabled": false
+      }
+    ],
+    "BackgroundColor": null,
+    "BorderColor": null,
+    "ImageID": "86873c70-5e6b-4899-aae5-ce94d918bbed",
+    "Count": 2,
+    "ID": 11,
+    "Title": "Здравоохранение и медицина ",
+    "Enabled": false
+  },
+  {
+    "Objects": [
+      {
+        "Status": 2,
+        "Total": 1290000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.866356,
+            51.985013
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 8404,
+        "Title": "Протеин России.Высокотехнологичное производство белкового концентрата из масличных культур.",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 200000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            84.768516,
+            50.926397
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 8405,
+        "Title": "Проект «KNIT STYLE»",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 71000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.894293,
+            51.990232
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10433,
+        "Title": "Расширение производства и увеличение объемов розлива родниковой воды из природного источника «Таш-Озы»    с. Сайдыс Майминского района",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 180000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.907301,
+            51.952509
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10435,
+        "Title": "Завод по производству гидрогенерирующего оборудования для Малых ГЭС",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 425000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.499969,
+            51.326529
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 17559,
+        "Title": "Развитие бизнеса по производству ферментированных фиточаев из местных трав",
+        "Enabled": false
+      }
+    ],
+    "BackgroundColor": null,
+    "BorderColor": null,
+    "ImageID": "7cef79fa-dc7c-4cc4-be70-0f78b9f2479d",
+    "Count": 5,
+    "ID": 9,
+    "Title": "Промышленность",
+    "Enabled": false
+  },
+  {
+    "Objects": [
+      {
+        "Status": 1,
+        "Total": 595000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            86.733895,
+            51.882672
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10426,
+        "Title": "Фабрика по производству волластонитового концентрата в с.Сейка",
+        "Enabled": false
+      }
+    ],
+    "BackgroundColor": null,
+    "BorderColor": null,
+    "ImageID": "10f1113d-9f03-4075-bc1e-4bfff4e6b996",
+    "Count": 1,
+    "ID": 8,
+    "Title": "Добыча полезных ископаемых",
+    "Enabled": false
+  },
+  {
+    "Objects": [
+      {
+        "Status": 2,
+        "Total": 2000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.675972,
+            49.995051
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10428,
+        "Title": "Оказание транспортных услуг для социально-незащищенных слоев населения  в Кош-Агачском районе.",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 157000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            89.193662,
+            49.716552
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10432,
+        "Title": "Строительство таможенно-логистического терминала «Ташантинский» на территории, прилегающей к МАПП «Ташанта» близ п. Ташанта, Кош-Агачского района, Республики Алтай",
+        "Enabled": false
+      }
+    ],
+    "BackgroundColor": null,
+    "BorderColor": null,
+    "ImageID": "75f11c4e-fac2-4b7b-80f5-8b29a0ff1c07",
+    "Count": 2,
+    "ID": 12,
+    "Title": "Транспорт и логистика",
+    "Enabled": false
+  },
+  {
+    "Objects": [
+      {
+        "Status": 2,
+        "Total": 1500000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            88.664554,
+            49.993227
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10427,
+        "Title": "Детский центр раннего развития  «Планета детства»  ",
+        "Enabled": false
+      },
+      {
+        "Status": 2,
+        "Total": 3000000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.917191,
+            51.957993
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 10431,
+        "Title": "Развитие Детского центра развития и коррекции \"Барс и Ко\" ",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 0.0,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.927033424377441,
+            51.957721438416939
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 15539,
+        "Title": "Строительство общеобразовательной школы №7 в г. Горно-Алтайске (Конкурс по отбору инвестора)",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 578000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.61852,
+            50.269549
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 17554,
+        "Title": "Частный детский сад «Элагезия»",
+        "Enabled": false
+      },
+      {
+        "Status": 0,
+        "Total": 26893000.00,
+        "Disposition": {
+          "type": "Point",
+          "coordinates": [
+            85.775877,
+            51.815198
+          ],
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          }
+        },
+        "ID": 17557,
+        "Title": "Создание детского оздоровительного комплекса на территории муниципального образования \"Майминский район\"",
+        "Enabled": false
+      }
+    ],
+    "BackgroundColor": null,
+    "BorderColor": null,
+    "ImageID": "b0d1df60-893b-48b9-a841-1092e7e26fbc",
+    "Count": 5,
+    "ID": 1075,
+    "Title": "Образование и наука",
+    "Enabled": false
+  }
+]
