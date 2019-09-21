@@ -1,4 +1,5 @@
-const fs = require("fs");
+import WriteFiles from "../utils/write-files";
+
 const projects = require("./projects");
 
 const COST_DIVIDER = 1000000;
@@ -16,9 +17,7 @@ const mappedProjects = projects
 		y: item.geom.coordinates[1],
 	}));
 
-console.log("Length:" + mappedProjects.length);
-console.log(mappedProjects[3]);
-fs.writeFile("altay-projects.json", JSON.stringify(mappedProjects, null, 2), () => (console.log("successful")));
+WriteFiles.writeJSONAndSCV("altay-projects", mappedProjects);
 
 function getCost(cost) {
 	return Math.floor(cost / COST_DIVIDER);
