@@ -19,7 +19,7 @@ const mappedProjects = projects
 
 console.log("Length:" + mappedProjects.length);
 console.log(mappedProjects[3]);
-fs.writeFile("altay-republic-projects.json", JSON.stringify(mappedProjects), () => (console.log("successful")));
+fs.writeFile("altay-republic-projects.json", JSON.stringify(mappedProjects, null, 2), () => (console.log("successful")));
 
 function getValueFromArray(array, key) {
 	const property = array.find(prop => prop.Key === key);

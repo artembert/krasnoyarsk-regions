@@ -17,7 +17,7 @@ const filteredProjects = projects.features
 
 console.log("Length:" + filteredProjects.length);
 console.log(filteredProjects[6]);
-fs.writeFile("kemerovo-projects-all.json", JSON.stringify(filteredProjects), () => (console.log("successful")));
+fs.writeFile("kemerovo-projects-all.json", JSON.stringify(filteredProjects, null, 2), () => (console.log("successful")));
 
 
 function getDate(date) {

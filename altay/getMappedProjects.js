@@ -18,7 +18,7 @@ const mappedProjects = projects
 
 console.log("Length:" + mappedProjects.length);
 console.log(mappedProjects[3]);
-fs.writeFile("altay-projects.json", JSON.stringify(mappedProjects), () => (console.log("successful")));
+fs.writeFile("altay-projects.json", JSON.stringify(mappedProjects, null, 2), () => (console.log("successful")));
 
 function getCost(cost) {
 	return Math.floor(cost / COST_DIVIDER);

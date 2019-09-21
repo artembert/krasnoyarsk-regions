@@ -19,4 +19,4 @@ const filtered = projects
 	}));
 console.log(filtered[0]);
 
-fs.writeFile("mappedProjects.json", JSON.stringify(filtered), () => (console.log("successful")));
+fs.writeFile("mappedProjects.json", JSON.stringify(filtered, null, 2), () => (console.log("successful")));
