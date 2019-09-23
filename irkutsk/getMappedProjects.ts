@@ -11,7 +11,7 @@ const allowTypes = [46, 48, 49, 52, 55, 57, 58, 60, 62];
 const mappedProjects: InvestProject[] = projects
   .map(item => ({
     name: item.title,
-    cost_mln: +item.investAmount,
+    cost_mln: getCost(item.investAmount),
     x: +item.geoglength,
     y: +item.geogwidth,
     categoryId: +item.categoryId,
@@ -26,3 +26,7 @@ console.log("Length:" + mappedProjects.length);
 console.log(mappedProjects[2]);
 
 WriteFiles.writeJSONAndSCV("irkutsk-projects", mappedProjects);
+
+function getCost(costString: string): number {
+  return +costString.replace(",", ".");
+}
